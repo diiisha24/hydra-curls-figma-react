@@ -121,6 +121,6 @@ a hamburger trigger.
 
 ## Total development time
 
-Approximately **10–15 hours**, across multiple sessions — full section-by-section
-build plus substantial iterative refinement (responsive fixes, cross-breakpoint
+Approximately **8 hours**, across multiple sessions — full section-by-section
+build plus iterative refinement (responsive fixes, cross-breakpoint
 verification, and the CSS/stacking-context debugging noted above).
